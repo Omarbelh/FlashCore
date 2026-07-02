@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Interface_USB") (type "Legacy") (uri "${KIPRJMOD}/Interface_USB.lib") (options "") (descr ""))
+	(lib (name "USBmicro-no-id") (type "Legacy") (uri "${KIPRJMOD}/USBmicro-no-id.lib") (options "") (descr ""))
+	(lib (name "CH341Apro-cache") (type "Legacy") (uri "C:/Users/belha/OneDrive/Bureau/CH341A-Pro-master/CH341Apro-cache.lib") (options "") (descr "Librairie cache du projet hérité"))
+)
